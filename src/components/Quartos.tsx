@@ -27,7 +27,7 @@ const quartos = [
     title: "Casa da Pousada",
     image: casaImg,
     description:
-      "A Casa possui 2 quartos, 1 banheiro, cozinha completa (geladeira, fogão, mesa, talheres, panelas), varanda com vista para a rua, ventiladores, TV, 1 cama de casal e 3 camas de solteiro. Capacidade para até 8 pessoas.",
+      "A Casa possui 2 quartos, 2 banheiro, cozinha completa, varanda com vista para a rua, ventiladores, TV, cama de casal e camas de solteiro. Capacidade para até 8 pessoas.",
     amenities: ["fan", "fridge", "tv", "bath", "bed"],
   },
 ];
